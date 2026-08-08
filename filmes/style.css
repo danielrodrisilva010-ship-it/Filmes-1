@@ -27,8 +27,16 @@ main .slide{
 main .slide h3{
         color: white;
         font-size: 40px;
-
-
-
 }
+main .slide p{
+	color: white;
+	font-size: 18px;
+}
+ main .slide a{
+	 color: white;
+	 background: red;
+	 padding: 8px 15px;
+	 text-decoration: none;
+	 border-radius: 8px;
+ }  n
 
