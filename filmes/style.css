@@ -41,6 +41,10 @@ main .slide p{
  }  
 main .slide .descricao-slide{
 	margin-left: 50px;
+	
+}
+main .catalogo{
+	margin: 50px;
 }
 main .catalogo .destaque-vertodos{
 	display: flex;
